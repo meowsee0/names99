@@ -1,0 +1,16 @@
+{
+ "name": "99 имён",
+ "short_name": "99 имён",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#fff3f7",
+ "theme_color": "#ff6b9a",
+ "icons": [
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
